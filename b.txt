@@ -1,1 +1,3 @@
 new file 2
+
+added some text in master branch
